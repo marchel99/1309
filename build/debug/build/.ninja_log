@@ -1,0 +1,22 @@
+# ninja log v5
+110	922	7202852054066710	CMakeFiles/1309.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_flash.c.obj	6a65428ee7d2c94a
+71	301	7202852047964545	CMakeFiles/1309.dir/Core/Startup/startup_stm32l476rgtx.s.obj	d745f09756686ee8
+3	318	7202852362254766	CMakeFiles/1309.dir/Core/Src/main.c.obj	4488932825b01128
+36	690	7202852051922079	CMakeFiles/1309.dir/Core/Src/stm32l4xx_it.c.obj	a0f75986e61ccf68
+43	807	7202852052986610	CMakeFiles/1309.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr_ex.c.obj	aef08152b810669a
+52	722	7202852052346740	CMakeFiles/1309.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_dma_ex.c.obj	c36b67faafb63a38
+1	738	7202852052385727	CMakeFiles/1309.dir/Core/Src/stm32l4xx_hal_msp.c.obj	9efc2fc73a4f67e6
+62	889	7202852053561391	CMakeFiles/1309.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_cortex.c.obj	8bd5ca1a30e669d5
+90	796	7202852052775565	CMakeFiles/1309.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_exti.c.obj	6f2f41303fd18655
+101	927	7202852054241731	CMakeFiles/1309.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_dma.c.obj	b9d71ae4a7df9018
+29	938	7202852054484207	CMakeFiles/1309.dir/Core/Src/syscalls.c.obj	63064a138c42aec7
+20	975	7202852054906070	CMakeFiles/1309.dir/Core/Src/sysmem.c.obj	a17ddea66d074866
+302	1087	7202852056015798	CMakeFiles/1309.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_gpio.c.obj	4033f751cb7fbd4a
+13	1105	7202852056200356	CMakeFiles/1309.dir/Core/Src/system_stm32l4xx.c.obj	8620f3b15839b5d4
+80	1124	7202852056275634	CMakeFiles/1309.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_flash_ex.c.obj	64d4fffc61752c86
+738	1284	7202852057990696	CMakeFiles/1309.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr.c.obj	694db608923944c4
+700	1300	7202852058144184	CMakeFiles/1309.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_flash_ramfunc.c.obj	c685f6594d8742f0
+723	1328	7202852058412007	CMakeFiles/1309.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc.c.obj	f7061ff77a990d21
+798	1369	7202852058867243	CMakeFiles/1309.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.c.obj	77bfc0fe51962458
+779	1407	7202852059248402	CMakeFiles/1309.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc_ex.c.obj	3af40c0387ca30f7
+319	734	7202852364858869	1309.elf	966f7feda33eeed
